@@ -467,7 +467,7 @@ a:focus {
   position: relative;
 }
 
-.about_section .img-box::before {
+/* .about_section .img-box::before {
   content: "";
   position: absolute;
   top: 0;
@@ -475,7 +475,7 @@ a:focus {
   width: 250px;
   height: 250px;
   background-color: #160e0b;
-}
+} */
 
 .about_section .detail-box p {
   margin-top: 10px;
@@ -981,7 +981,7 @@ a:focus {
   position: absolute;
   top: 0;
   left: 0;
-  width: 60px;
-  height: 60px;
+  width: 54px;
+  height: 54px;
   border-radius: 100%;
 }
